@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiyant&label=Profile%20views&color=0e75b6&style=flat-square" alt="khushiyant" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushiyant" alt="khushiyant" /></a> </p>
-
 - 📫 How to reach me **khushiyant2002@gmail.com**
 
 - ⚡ Fun fact **I'm love something which I'm unaware of.**
