@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Khushiyant
 #### Curious Developer from India
-![Curious Developer from India](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Curious Developer from India](https://github.com/Khushiyant/Khushiyant/blob/main/My_Post.png)
 
 I'm currently a B.Tech(CS) student, interested in technologies related to ML, ImageProcessing, Front-end web-dev.
 
