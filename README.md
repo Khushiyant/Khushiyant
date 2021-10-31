@@ -18,10 +18,10 @@ Skills: PYTHON / C++ / ML / HTML / CSS / OPENCV
 <img src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif" height='300'>
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyant&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyant)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushiyant&show_icons=true&theme=dracula)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushiyant&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khushiyant&theme=dracula)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khushiyant)  
 
 ![Profile views](https://gpvc.arturio.dev/khushiyant)  
