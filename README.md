@@ -6,7 +6,7 @@ I'm currently a B.Tech(CS) student, interested in technologies related to ML, Im
 
 Skills: PYTHON / C++ / ML / HTML / CSS / OPENCV
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on ML Chess Bot. 
 - 🌱 I’m currently learning Ml, Image Processing 
 - 📫 How to reach me: khushiyant2002@gmail.com 
 - 😄 Pronouns: curious, smart-working 
