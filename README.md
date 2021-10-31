@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Khushiyant</h1>
-<h3 align="center">A Curious Developer from India</h3>
+### Hi there 👋, My Name is Khushiyant
+#### Curious Developer from India
+![Curious Developer from India](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiyant&label=Profile%20views&color=0e75b6&style=flat-square" alt="khushiyant" /> </p>
+I'm currently a B.Tech(CS) student, interested in technologies related to ML, ImageProcessing, Front-end web-dev.
 
-- 📫 How to reach me **khushiyant2002@gmail.com**
+Skills: PYTHON / C++ / ML / HTML / CSS / OPENCV
 
-- ⚡ Fun fact **I'm love something which I'm unaware of.**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Ml, Image Processing 
+- 📫 How to reach me: khushiyant2002@gmail.com 
+- 😄 Pronouns: curious, smart-working 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushiyant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushiyant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khushiyant chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khushiyant chauhan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/khushiyant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushiyant" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khushiyant2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushiyant2002" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khushiyant)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khushiyant/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC4ytWaxtB08htS55LYMiGuw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/khushiyant)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/khushiyant2002)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushiyant&show_icons=true&theme=dracula&locale=en&layout=compact" alt="khushiyant" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyant)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushiyant&show_icons=true&theme=dracula&locale=en" alt="khushiyant" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushiyant&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khushiyant)  
+
+![Profile views](https://gpvc.arturio.dev/khushiyant)  
