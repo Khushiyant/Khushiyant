@@ -1,12 +1,12 @@
 ### Hi there 👋, My Name is Khushiyant
 #### Curious Developer from India
-![Curious Developer from India](https://github.com/Khushiyant/Khushiyant/blob/main/My_Post.png)
+
 
 I'm currently a B.Tech(CS) student, interested in technologies related to ML, ImageProcessing, iOS.
 
 Skills: PYTHON / C++ / ML / HTML / CSS / OPENCV
 
-- 🌱 I’m currently learning Ml, Image Processing 
+- 🌱 I’m learning Swift
 - 📫 How to reach me: khushiyant2002@gmail.com
 
 
