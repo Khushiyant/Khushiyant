@@ -23,8 +23,6 @@ Achievements:
 <hr/>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushiyant&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khushiyant)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushiyant&show_icons=true)    
 
 ![Profile views](https://gpvc.arturio.dev/khushiyant)  
