@@ -58,10 +58,14 @@ I started as a Freelancer in the field of ML and automation, and soon get rated 
 </div>
 <hr/>
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khushiyant&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khushiyant&style=for-the-badge)
+
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - 📫 How to reach me: khushiyant2002@gmail.com
