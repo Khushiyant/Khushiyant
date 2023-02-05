@@ -62,6 +62,6 @@ I started as a Freelancer in the field of ML and automation, and soon get rated 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/khushiyant)  
+![Profile Views](https://komarev.com/ghpvc/?username=khushiyant&style=for-the-badge)
 
 - 📫 How to reach me: khushiyant2002@gmail.com
