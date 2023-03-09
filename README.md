@@ -73,5 +73,3 @@ https://discord.gg/S5HttNCU </td>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <br>
-
-- 📫 How to reach me: khushiyant2002@gmail.com
