@@ -1,5 +1,7 @@
+![github-baneer](https://user-images.githubusercontent.com/69671407/224075327-768d04b2-23c7-46dd-b9d3-090308abb186.png)
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/khushiyant/">
@@ -11,35 +13,48 @@
       <a href="https://kodein.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-green?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
-  [![](https://dcbadge.vercel.app/api/server/85Mch6B9Gw)](https://discord.gg/85Mch6B9Gw)
+    <img src="https://dcbadge.vercel.app/api/server/85Mch6B9Gw" />
 </div>
-  
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
-  <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width="600"/>
-</div>
-  
 </div>
 
-### Hi there 👋, My Name is Khushiyant
-#### Curious Developer from India
+### <p align="center"> Collaborating and creating, open source never stops pulsating. </p>
 
+- 🔬 Research Assistant, <b> Norwegian University of Science and Technology </b>
+- 👽 Join our awesome community [Searcher's Way](https://discord.gg/)! 
+- ✍️ Follow my blogs on [Hashnode](https://kodein.hashnode.dev)
 
-I started as a Freelancer in the field of ML and automation, and soon get rated 5* on Fiver. Later, worked remotely with Wains(Spain), on developing a Dockerized data collection system and even, worked as CTO in a startup called 'Sibilize' and designed a Recommendation system for residential plots. Currently, working under Dr Swati Aggarwal in the field of brain signal encoding, LSTM networks and text-GANs. Also, being an active open-source developer in Zulip, with 200+ lines of code contributed. Even held the position of Tech Lead in IEEE, MSIT and developed Chess Analyser.
+## Latest Blogs
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
-<!-- Achievements -->
-## Achievements:
-- Winner of SIH'22, Asia's largest hackathon with more than 150K applicants, organised by the Indian Govt. along with AICTE
-- Ranked 7th in National Competition called 'CVZone', developed object tracking and detection system using YOLO-darknet
-- Qualified 5 National Competitive Exams - NDA-145, NAO, NSTSE, TES - 2 times, JEE Mains
-- Co-founded a startup called "SIBILIZE"
-- Interstate runner-up in Dev Contest by Edusoft
+## Testimonials
+<table>
+<tbody><tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td><a href="https://twitter.com/chinta_manogna/status/1625514691098460160?s=20" rel="nofollow">Manogna Chinta</a></td>
+    <td>Hello everyone
 
-<!-- Languages and Tools -->
+Just now had a grt session with a very gud mentor ,Whn u r into learning about open source and you find someone 
+@khushiyant
+  who can help is a blessing
+
+So,if anyone is looking for a mentor to guide and community to work with ,join here
+https://discord.gg/S5HttNCU </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.fiverr.com/khushiyant" rel="nofollow">Hamza</a></td>
+    <td>seller is well experienced and exceeded my expectations. I would like to work again with him!</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.fiverr.com/khushiyant" rel="nofollow">Radhians</a></td>
+    <td>Thank you, great as always!></td>
+  </tr>
+</tbody>
+  </table>
+
 ## Languages and Tools
 <hr/>
 <div>
@@ -57,14 +72,6 @@ I started as a Freelancer in the field of ML and automation, and soon get rated 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
-<hr/>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khushiyant&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiyant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=khushiyant&style=for-the-badge)
-
+<br>
 
 - 📫 How to reach me: khushiyant2002@gmail.com
