@@ -16,8 +16,9 @@ jobs:
       - name: "Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'Khushiyant' # Hashnode Username
-          BLOG_URL: 'https://kodein.hashnode.dev' # Blog URL
-          COUNT: 4 # MAX Visisble
+          USERNAME: 'Khushiyant'
+          BLOG_URL: 'https://kodein.hashnode.dev' 
+          COUNT: 4 
+          STYLE: 'blog-left'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
