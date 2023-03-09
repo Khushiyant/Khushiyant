@@ -11,6 +11,7 @@
       <a href="https://kodein.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-green?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
+  [![](https://dcbadge.vercel.app/api/server/85Mch6B9Gw)](https://discord.gg/85Mch6B9Gw)
 </div>
   
   <h1>
@@ -30,7 +31,7 @@
 
 I started as a Freelancer in the field of ML and automation, and soon get rated 5* on Fiver. Later, worked remotely with Wains(Spain), on developing a Dockerized data collection system and even, worked as CTO in a startup called 'Sibilize' and designed a Recommendation system for residential plots. Currently, working under Dr Swati Aggarwal in the field of brain signal encoding, LSTM networks and text-GANs. Also, being an active open-source developer in Zulip, with 200+ lines of code contributed. Even held the position of Tech Lead in IEEE, MSIT and developed Chess Analyser.
 
-
+<!-- Achievements -->
 ## Achievements:
 - Winner of SIH'22, Asia's largest hackathon with more than 150K applicants, organised by the Indian Govt. along with AICTE
 - Ranked 7th in National Competition called 'CVZone', developed object tracking and detection system using YOLO-darknet
@@ -38,7 +39,7 @@ I started as a Freelancer in the field of ML and automation, and soon get rated 
 - Co-founded a startup called "SIBILIZE"
 - Interstate runner-up in Dev Contest by Edusoft
 
-
+<!-- Languages and Tools -->
 ## Languages and Tools
 <hr/>
 <div>
@@ -65,7 +66,5 @@ I started as a Freelancer in the field of ML and automation, and soon get rated 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khushiyant&style=for-the-badge)
 
-## Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - 📫 How to reach me: khushiyant2002@gmail.com

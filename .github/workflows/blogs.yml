@@ -1,0 +1,23 @@
+name: "Hashnode Blog"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' # Every Hour
+
+jobs:
+  update_blogs:
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: 'Khushiyant' # Hashnode Username
+          BLOG_URL: 'https://kodein.hashnode.dev' # Blog URL
+          COUNT: 4 # MAX Visisble
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
