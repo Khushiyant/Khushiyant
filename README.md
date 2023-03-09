@@ -25,6 +25,34 @@
 
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://kodein.hashnode.dev/docker-image-optimization-shrinking-your-containers-waistline" title="Docker Image Optimization: Shrinking Your Container's Waistline"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678387775990/9e7f039b-4fdd-42f6-869e-f70070f3264d.jpeg" alt="Docker Image Optimization: Shrinking Your Container's Waistline" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/docker-image-optimization-shrinking-your-containers-waistline" title="Docker Image Optimization: Shrinking Your Container's Waistline"><strong>Docker Image Optimization: Shrinking Your Container's Waistline</strong></a>
+<div><strong>9 Mar 2023</strong></div>
+<br/> Introduction
+
+Docker images are essential to containerization, but they can quickly become bloated with unnecessary files and dependencies. The bigger the image, the longer it takes to pull and run, which can be a headache for developers and users al... </p> <br/> <br/>
+<p align="left">
+<a href="https://kodein.hashnode.dev/grep-your-way-to-text-searching-bliss-a-guide-to-mastering-the-linux-grep-command" title="Grep Your Way to Text-Searching Bliss: A Guide to Mastering the Linux grep Command"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678299211625/e8190f5b-4c95-4e8c-9763-2071a6632c9f.webp" alt="Grep Your Way to Text-Searching Bliss: A Guide to Mastering the Linux grep Command" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/grep-your-way-to-text-searching-bliss-a-guide-to-mastering-the-linux-grep-command" title="Grep Your Way to Text-Searching Bliss: A Guide to Mastering the Linux grep Command"><strong>Grep Your Way to Text-Searching Bliss: A Guide to Mastering the Linux grep Command</strong></a>
+<div><strong>8 Mar 2023</strong></div>
+<br/> Introduction
+
+If you've ever found yourself searching through endless files looking for a specific piece of information, then you know how frustrating it can be. But fear not, Linux grep command is here to save the day! This mighty tool can help you ... </p> <br/> <br/>
+<p align="left">
+<a href="https://kodein.hashnode.dev/boost-your-docker-build-process-with-multi-stage-builds" title="Boost Your Docker Build Process with Multi-Stage Builds"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678297860882/0e705978-2b38-42f6-a337-9b4feac89a0a.png" alt="Boost Your Docker Build Process with Multi-Stage Builds" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/boost-your-docker-build-process-with-multi-stage-builds" title="Boost Your Docker Build Process with Multi-Stage Builds"><strong>Boost Your Docker Build Process with Multi-Stage Builds</strong></a>
+<div><strong>8 Mar 2023</strong></div>
+<br/> Introduction
+
+Docker multi-stage build is a feature that allows developers to build images with multiple stages, where each stage can produce an intermediate image that can be used by subsequent stages. This feature enables developers to build smalle... </p> <br/> <br/>
+<p align="left">
+<a href="https://kodein.hashnode.dev/effortlessly-setting-up-your-django-environment-using-devcontainer" title="Effortlessly Setting Up Your Django Environment Using Devcontainer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677856589337/c1fb7f3e-5789-4535-989d-ea860931a133.jpeg" alt="Effortlessly Setting Up Your Django Environment Using Devcontainer" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/effortlessly-setting-up-your-django-environment-using-devcontainer" title="Effortlessly Setting Up Your Django Environment Using Devcontainer"><strong>Effortlessly Setting Up Your Django Environment Using Devcontainer</strong></a>
+<div><strong>3 Mar 2023</strong></div>
+<br/> Introduction
+
+Developing applications using the Django framework requires a specific set of development environment configurations, such as the Python interpreter version, packages, libraries, and dependencies. In this blog, we will discuss the proce... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
