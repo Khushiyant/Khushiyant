@@ -26,6 +26,14 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/docker-webassembly-the-superhero-duo-of-the-developer-world" title="Docker + WebAssembly: The Superhero Duo of the Developer World"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679511343823/cbd74c40-0608-4ad1-b067-d5b1f516ae44.webp" alt="Docker + WebAssembly: The Superhero Duo of the Developer World" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/docker-webassembly-the-superhero-duo-of-the-developer-world" title="Docker + WebAssembly: The Superhero Duo of the Developer World"><strong>Docker + WebAssembly: The Superhero Duo of the Developer World</strong></a>
+<div><strong>22 Mar 2023</strong></div>
+<br/> Introduction
+
+Well, hello there! Today, we're going to talk about two of my favourite things: Docker and WebAssembly (WASM). And I promise to make it funny, so bear with me!
+First, let's talk about Docker. You know what Docker is, right? It's like a ... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/docker-image-optimization-shrinking-your-containers-waistline" title="Docker Image Optimization: Shrinking Your Container's Waistline"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678387775990/9e7f039b-4fdd-42f6-869e-f70070f3264d.jpeg" alt="Docker Image Optimization: Shrinking Your Container's Waistline" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/docker-image-optimization-shrinking-your-containers-waistline" title="Docker Image Optimization: Shrinking Your Container's Waistline"><strong>Docker Image Optimization: Shrinking Your Container's Waistline</strong></a>
 <div><strong>9 Mar 2023</strong></div>
@@ -46,13 +54,6 @@ If you've ever found yourself searching through endless files looking for a spec
 <br/> Introduction
 
 Docker multi-stage build is a feature that allows developers to build images with multiple stages, where each stage can produce an intermediate image that can be used by subsequent stages. This feature enables developers to build smalle... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/effortlessly-setting-up-your-django-environment-using-devcontainer" title="Effortlessly Setting Up Your Django Environment Using Devcontainer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677856589337/c1fb7f3e-5789-4535-989d-ea860931a133.jpeg" alt="Effortlessly Setting Up Your Django Environment Using Devcontainer" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/effortlessly-setting-up-your-django-environment-using-devcontainer" title="Effortlessly Setting Up Your Django Environment Using Devcontainer"><strong>Effortlessly Setting Up Your Django Environment Using Devcontainer</strong></a>
-<div><strong>3 Mar 2023</strong></div>
-<br/> Introduction
-
-Developing applications using the Django framework requires a specific set of development environment configurations, such as the Python interpreter version, packages, libraries, and dependencies. In this blog, we will discuss the proce... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
