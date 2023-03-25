@@ -75,7 +75,7 @@ https://discord.gg/S5HttNCU </td>
   </tr>
   <tr>
     <td><a href="https://www.fiverr.com/khushiyant" rel="nofollow">Hamza</a></td>
-    <td>seller is well experienced and exceeded my expectations. I would like to work again with him!</td>
+    <td>He is well experienced and exceeded my expectations. I would like to work again with him!</td>
   </tr>
   <tr>
     <td><a href="https://www.fiverr.com/khushiyant" rel="nofollow">Radhians</a></td>
