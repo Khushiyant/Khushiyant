@@ -26,6 +26,13 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/federated-learning-with-flower-how-to-train-your-model-without-stealing-data" title="Federated Learning with Flower: How to Train Your Model without Stealing Data"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679942425484/82d1632e-675a-40dd-bf1d-3e0d4f3a0ee6.png" alt="Federated Learning with Flower: How to Train Your Model without Stealing Data" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/federated-learning-with-flower-how-to-train-your-model-without-stealing-data" title="Federated Learning with Flower: How to Train Your Model without Stealing Data"><strong>Federated Learning with Flower: How to Train Your Model without Stealing Data</strong></a>
+<div><strong>27 Mar 2023</strong></div>
+<br/> Introduction
+
+Hey there, fellow techies! Are you ready to embark on a journey into the exciting world of federated learning? Don't worry, I promise to make it as fun and easy to understand as possible. And to make things even more exciting, we'll be ... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/docker-webassembly-the-superhero-duo-of-the-developer-world" title="Docker + WebAssembly: The Superhero Duo of the Developer World"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679511343823/cbd74c40-0608-4ad1-b067-d5b1f516ae44.webp" alt="Docker + WebAssembly: The Superhero Duo of the Developer World" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/docker-webassembly-the-superhero-duo-of-the-developer-world" title="Docker + WebAssembly: The Superhero Duo of the Developer World"><strong>Docker + WebAssembly: The Superhero Duo of the Developer World</strong></a>
 <div><strong>22 Mar 2023</strong></div>
@@ -47,13 +54,6 @@ Docker images are essential to containerization, but they can quickly become blo
 <br/> Introduction
 
 If you've ever found yourself searching through endless files looking for a specific piece of information, then you know how frustrating it can be. But fear not, Linux grep command is here to save the day! This mighty tool can help you ... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/boost-your-docker-build-process-with-multi-stage-builds" title="Boost Your Docker Build Process with Multi-Stage Builds"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678297860882/0e705978-2b38-42f6-a337-9b4feac89a0a.png" alt="Boost Your Docker Build Process with Multi-Stage Builds" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/boost-your-docker-build-process-with-multi-stage-builds" title="Boost Your Docker Build Process with Multi-Stage Builds"><strong>Boost Your Docker Build Process with Multi-Stage Builds</strong></a>
-<div><strong>8 Mar 2023</strong></div>
-<br/> Introduction
-
-Docker multi-stage build is a feature that allows developers to build images with multiple stages, where each stage can produce an intermediate image that can be used by subsequent stages. This feature enables developers to build smalle... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
