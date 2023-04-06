@@ -29,6 +29,14 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/containerization-made-easy-the-open-container-initiative-explained" title="Containerization Made Easy: The Open Container Initiative Explained"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680799853499/de258fca-92f4-44c9-9e1a-62eafe0f5ddd.jpeg" alt="Containerization Made Easy: The Open Container Initiative Explained" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/containerization-made-easy-the-open-container-initiative-explained" title="Containerization Made Easy: The Open Container Initiative Explained"><strong>Containerization Made Easy: The Open Container Initiative Explained</strong></a>
+<div><strong>6 Apr 2023</strong></div>
+<br/> Introduction
+
+Oh, hi there! Are you ready for a funny and informative dive into the world of containers and the Open Container Initiative (OCI)? Great, let's get started!
+First, let's talk about Docker. No, not the sturdy, waterproof container you mi... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/federated-learning-with-flower-how-to-train-your-model-without-stealing-data" title="Federated Learning with Flower: How to Train Your Model without Stealing Data"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679942425484/82d1632e-675a-40dd-bf1d-3e0d4f3a0ee6.png" alt="Federated Learning with Flower: How to Train Your Model without Stealing Data" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/federated-learning-with-flower-how-to-train-your-model-without-stealing-data" title="Federated Learning with Flower: How to Train Your Model without Stealing Data"><strong>Federated Learning with Flower: How to Train Your Model without Stealing Data</strong></a>
 <div><strong>27 Mar 2023</strong></div>
@@ -50,13 +58,6 @@ First, let's talk about Docker. You know what Docker is, right? It's like a ... 
 <br/> Introduction
 
 Docker images are essential to containerization, but they can quickly become bloated with unnecessary files and dependencies. The bigger the image, the longer it takes to pull and run, which can be a headache for developers and users al... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/grep-your-way-to-text-searching-bliss-a-guide-to-mastering-the-linux-grep-command" title="Grep Your Way to Text-Searching Bliss: A Guide to Mastering the Linux grep Command"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678299211625/e8190f5b-4c95-4e8c-9763-2071a6632c9f.webp" alt="Grep Your Way to Text-Searching Bliss: A Guide to Mastering the Linux grep Command" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/grep-your-way-to-text-searching-bliss-a-guide-to-mastering-the-linux-grep-command" title="Grep Your Way to Text-Searching Bliss: A Guide to Mastering the Linux grep Command"><strong>Grep Your Way to Text-Searching Bliss: A Guide to Mastering the Linux grep Command</strong></a>
-<div><strong>8 Mar 2023</strong></div>
-<br/> Introduction
-
-If you've ever found yourself searching through endless files looking for a specific piece of information, then you know how frustrating it can be. But fear not, Linux grep command is here to save the day! This mighty tool can help you ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
