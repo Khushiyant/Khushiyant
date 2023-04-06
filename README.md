@@ -4,17 +4,20 @@
 <div id="header" align="center">
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/khushiyant/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/khushiyant">
-    <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-      <a href="https://kodein.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-green?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <img src="https://dcbadge.vercel.app/api/server/85Mch6B9Gw" />
-</div>
+    <a href="https://www.linkedin.com/in/khushiyant/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/khushiyant">
+      <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://kodein.hashnode.dev">
+      <img src="https://img.shields.io/badge/Hashnode-green?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+    </a>
+    <a href="https://khushiyant.medium.com">
+      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+      <img src="https://dcbadge.vercel.app/api/server/85Mch6B9Gw" />
+  </div>
 </div>
 
 ### <p align="center"> Collaborating and creating, open source never stops pulsating. </p>
