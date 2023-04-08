@@ -24,7 +24,7 @@
 
 - 🔬 Research Assistant, <b> Norwegian University of Science and Technology </b>
 - 👽 Join our awesome community [Searcher's Way](https://discord.gg/)! 
-- ✍️ Follow my blogs on [Hashnode](https://kodein.hashnode.dev)
+- ✍️ Follow my blogs on [Hashnode](https://kodein.hashnode.dev) and [Medium](khushiyant.medium.com)
 
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
