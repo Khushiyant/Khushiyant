@@ -29,6 +29,11 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/docker-engine-architecture-a-beginners-shallow-dive" title="Docker Engine Architecture: A Beginner's Shallow Dive"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680954677140/44e350f3-b9b1-4588-bc1f-c01487da83f0.png" alt="Docker Engine Architecture: A Beginner's Shallow Dive" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/docker-engine-architecture-a-beginners-shallow-dive" title="Docker Engine Architecture: A Beginner's Shallow Dive"><strong>Docker Engine Architecture: A Beginner's Shallow Dive</strong></a>
+<div><strong>8 Apr 2023</strong></div>
+<br/> Hello there, fellow tech enthusiasts! Today, we're going to talk about Docker Engine Architecture. Now, I know what you're thinking - "Ugh, this is going to be boring!" But fear not, my dear friends! We're going to make it as funny as possible with s... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/containerization-made-easy-the-open-container-initiative-explained" title="Containerization Made Easy: The Open Container Initiative Explained"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680799853499/de258fca-92f4-44c9-9e1a-62eafe0f5ddd.jpeg" alt="Containerization Made Easy: The Open Container Initiative Explained" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/containerization-made-easy-the-open-container-initiative-explained" title="Containerization Made Easy: The Open Container Initiative Explained"><strong>Containerization Made Easy: The Open Container Initiative Explained</strong></a>
 <div><strong>6 Apr 2023</strong></div>
@@ -51,13 +56,6 @@ Hey there, fellow techies! Are you ready to embark on a journey into the excitin
 
 Well, hello there! Today, we're going to talk about two of my favourite things: Docker and WebAssembly (WASM). And I promise to make it funny, so bear with me!
 First, let's talk about Docker. You know what Docker is, right? It's like a ... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/docker-image-optimization-shrinking-your-containers-waistline" title="Docker Image Optimization: Shrinking Your Container's Waistline"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678387775990/9e7f039b-4fdd-42f6-869e-f70070f3264d.jpeg" alt="Docker Image Optimization: Shrinking Your Container's Waistline" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/docker-image-optimization-shrinking-your-containers-waistline" title="Docker Image Optimization: Shrinking Your Container's Waistline"><strong>Docker Image Optimization: Shrinking Your Container's Waistline</strong></a>
-<div><strong>9 Mar 2023</strong></div>
-<br/> Introduction
-
-Docker images are essential to containerization, but they can quickly become bloated with unnecessary files and dependencies. The bigger the image, the longer it takes to pull and run, which can be a headache for developers and users al... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
