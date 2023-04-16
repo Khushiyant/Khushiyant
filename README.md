@@ -29,6 +29,11 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss" title="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681669265469/b2f3ddf3-9ac1-4827-b655-c57e8f3acd45.png" alt="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss" title="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss"><strong>Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss</strong></a>
+<div><strong>16 Apr 2023</strong></div>
+<br/> Hello there, techies! Today, we're going to talk about GitHub actions. But hold on, before we dive into this amazing topic, let me ask you a question. Do you like automating repetitive tasks? Do you love to sit back and watch your computer do all the... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/a-tale-of-two-runtimes-understanding-dockers-low-level-and-high-level-runtimes" title="A Tale of Two Runtimes: Understanding Docker's Low-Level and High-Level Runtimes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681497256507/21f0e473-968d-400e-9872-8156e0505e54.png" alt="A Tale of Two Runtimes: Understanding Docker's Low-Level and High-Level Runtimes" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/a-tale-of-two-runtimes-understanding-dockers-low-level-and-high-level-runtimes" title="A Tale of Two Runtimes: Understanding Docker's Low-Level and High-Level Runtimes"><strong>A Tale of Two Runtimes: Understanding Docker's Low-Level and High-Level Runtimes</strong></a>
 <div><strong>14 Apr 2023</strong></div>
@@ -47,13 +52,6 @@ Docker is a popular platform that allows developers to build and run containeriz
 
 Oh, hi there! Are you ready for a funny and informative dive into the world of containers and the Open Container Initiative (OCI)? Great, let's get started!
 First, let's talk about Docker. No, not the sturdy, waterproof container you mi... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/federated-learning-with-flower-how-to-train-your-model-without-stealing-data" title="Federated Learning with Flower: How to Train Your Model without Stealing Data"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679942425484/82d1632e-675a-40dd-bf1d-3e0d4f3a0ee6.png" alt="Federated Learning with Flower: How to Train Your Model without Stealing Data" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/federated-learning-with-flower-how-to-train-your-model-without-stealing-data" title="Federated Learning with Flower: How to Train Your Model without Stealing Data"><strong>Federated Learning with Flower: How to Train Your Model without Stealing Data</strong></a>
-<div><strong>27 Mar 2023</strong></div>
-<br/> Introduction
-
-Hey there, fellow techies! Are you ready to embark on a journey into the exciting world of federated learning? Don't worry, I promise to make it as fun and easy to understand as possible. And to make things even more exciting, we'll be ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
