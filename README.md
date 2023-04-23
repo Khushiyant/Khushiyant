@@ -29,6 +29,13 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/monolithic-container-applications-a-double-edged-sword" title="Monolithic Container Applications: A Double-Edged Sword"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682276668957/7bc9f993-2ebd-43fc-9bd0-8b6374e64f6d.webp" alt="Monolithic Container Applications: A Double-Edged Sword" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/monolithic-container-applications-a-double-edged-sword" title="Monolithic Container Applications: A Double-Edged Sword"><strong>Monolithic Container Applications: A Double-Edged Sword</strong></a>
+<div><strong>23 Apr 2023</strong></div>
+<br/> Introduction
+Well, buckle up folks, because we're about to dive into the wonderful world of monolithic container applications! And if that sentence didn't get you excited, I don't know what will.
+So, first things first, what the heck is a monolithic ... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss" title="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681669265469/b2f3ddf3-9ac1-4827-b655-c57e8f3acd45.png" alt="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss" title="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss"><strong>Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss</strong></a>
 <div><strong>16 Apr 2023</strong></div>
@@ -44,14 +51,6 @@ Docker is a popular platform that allows developers to build and run containeriz
 <a href="https://kodein.hashnode.dev/docker-engine-architecture-a-beginners-shallow-dive" title="Docker Engine Architecture: A Beginner's Shallow Dive"><strong>Docker Engine Architecture: A Beginner's Shallow Dive</strong></a>
 <div><strong>8 Apr 2023</strong></div>
 <br/> Hello there, fellow tech enthusiasts! Today, we're going to talk about Docker Engine Architecture. Now, I know what you're thinking - "Ugh, this is going to be boring!" But fear not, my dear friends! We're going to make it as funny as possible with s... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/containerization-made-easy-the-open-container-initiative-explained" title="Containerization Made Easy: The Open Container Initiative Explained"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680799853499/de258fca-92f4-44c9-9e1a-62eafe0f5ddd.jpeg" alt="Containerization Made Easy: The Open Container Initiative Explained" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/containerization-made-easy-the-open-container-initiative-explained" title="Containerization Made Easy: The Open Container Initiative Explained"><strong>Containerization Made Easy: The Open Container Initiative Explained</strong></a>
-<div><strong>6 Apr 2023</strong></div>
-<br/> Introduction
-
-Oh, hi there! Are you ready for a funny and informative dive into the world of containers and the Open Container Initiative (OCI)? Great, let's get started!
-First, let's talk about Docker. No, not the sturdy, waterproof container you mi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
