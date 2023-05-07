@@ -29,6 +29,11 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+
+<a href="https://kodein.hashnode.dev/container-conundrum-a-comical-look-at-docker-monitoring" title="Container Conundrum: A Comical Look at Docker Monitoring"><strong>Container Conundrum: A Comical Look at Docker Monitoring</strong></a>
+<div><strong>7 May 2023</strong></div>
+<br/> Hey there, fellow Docker enthusiasts! Are you tired of constantly fretting over the health and performance of your containers? Do you wish there was an easier way to keep tabs on your Dockerized apps? Well, fear not, because today we're talking about... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/monolithic-container-applications-a-double-edged-sword" title="Monolithic Container Applications: A Double-Edged Sword"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682276668957/7bc9f993-2ebd-43fc-9bd0-8b6374e64f6d.webp" alt="Monolithic Container Applications: A Double-Edged Sword" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/monolithic-container-applications-a-double-edged-sword" title="Monolithic Container Applications: A Double-Edged Sword"><strong>Monolithic Container Applications: A Double-Edged Sword</strong></a>
 <div><strong>23 Apr 2023</strong></div>
@@ -46,11 +51,6 @@ So, first things first, what the heck is a monolithic ... </p> <br/> <br/>
 <div><strong>14 Apr 2023</strong></div>
 <br/> Introduction
 Docker is a popular platform that allows developers to build and run containerized applications. The Docker runtime is a critical component of this platform that provides the environment for running containerized apps. In this technical ... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/docker-engine-architecture-a-beginners-shallow-dive" title="Docker Engine Architecture: A Beginner's Shallow Dive"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680954677140/44e350f3-b9b1-4588-bc1f-c01487da83f0.png" alt="Docker Engine Architecture: A Beginner's Shallow Dive" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/docker-engine-architecture-a-beginners-shallow-dive" title="Docker Engine Architecture: A Beginner's Shallow Dive"><strong>Docker Engine Architecture: A Beginner's Shallow Dive</strong></a>
-<div><strong>8 Apr 2023</strong></div>
-<br/> Hello there, fellow tech enthusiasts! Today, we're going to talk about Docker Engine Architecture. Now, I know what you're thinking - "Ugh, this is going to be boring!" But fear not, my dear friends! We're going to make it as funny as possible with s... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
