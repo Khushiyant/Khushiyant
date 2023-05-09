@@ -29,9 +29,9 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-
+<a href="https://kodein.hashnode.dev/container-conundrum-a-comical-look-at-docker-monitoring" title="Container Conundrum: A Comical Look at Docker Monitoring"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683638778072/c79dbf60-e482-4650-aeb7-3c2e71f29ffb.png" alt="Container Conundrum: A Comical Look at Docker Monitoring" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/container-conundrum-a-comical-look-at-docker-monitoring" title="Container Conundrum: A Comical Look at Docker Monitoring"><strong>Container Conundrum: A Comical Look at Docker Monitoring</strong></a>
-<div><strong>7 May 2023</strong></div>
+<div><strong>7 May 2023</strong> | <strong>Updated: 9 May 2023</strong></div>
 <br/> Hey there, fellow Docker enthusiasts! Are you tired of constantly fretting over the health and performance of your containers? Do you wish there was an easier way to keep tabs on your Dockerized apps? Well, fear not, because today we're talking about... </p> <br/> <br/>
 <p align="left">
 <a href="https://kodein.hashnode.dev/monolithic-container-applications-a-double-edged-sword" title="Monolithic Container Applications: A Double-Edged Sword"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682276668957/7bc9f993-2ebd-43fc-9bd0-8b6374e64f6d.webp" alt="Monolithic Container Applications: A Double-Edged Sword" width="250px" align="left" /></a>
