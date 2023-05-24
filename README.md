@@ -29,6 +29,12 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/networking-with-docker-the-hilarity-of-container-connections" title="Networking with Docker: The Hilarity of Container Connections"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684932461959/c1f330dd-638c-4011-b6ee-b3a06e9d4074.jpeg" alt="Networking with Docker: The Hilarity of Container Connections" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/networking-with-docker-the-hilarity-of-container-connections" title="Networking with Docker: The Hilarity of Container Connections"><strong>Networking with Docker: The Hilarity of Container Connections</strong></a>
+<div><strong>24 May 2023</strong></div>
+<br/> Introduction
+Welcome to a whimsical voyage into the exciting world of Docker networking, fellow Docker aficionados! Grab your favourite beverage, put on a happy face, and get ready to chuckle as we uncover the secrets of container connections. Prepar... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/container-conundrum-a-comical-look-at-docker-monitoring" title="Container Conundrum: A Comical Look at Docker Monitoring"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683638778072/c79dbf60-e482-4650-aeb7-3c2e71f29ffb.png" alt="Container Conundrum: A Comical Look at Docker Monitoring" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/container-conundrum-a-comical-look-at-docker-monitoring" title="Container Conundrum: A Comical Look at Docker Monitoring"><strong>Container Conundrum: A Comical Look at Docker Monitoring</strong></a>
 <div><strong>7 May 2023</strong> | <strong>Updated: 9 May 2023</strong></div>
@@ -45,12 +51,6 @@ So, first things first, what the heck is a monolithic ... </p> <br/> <br/>
 <a href="https://kodein.hashnode.dev/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss" title="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss"><strong>Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss</strong></a>
 <div><strong>16 Apr 2023</strong></div>
 <br/> Hello there, techies! Today, we're going to talk about GitHub actions. But hold on, before we dive into this amazing topic, let me ask you a question. Do you like automating repetitive tasks? Do you love to sit back and watch your computer do all the... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/a-tale-of-two-runtimes-understanding-dockers-low-level-and-high-level-runtimes" title="A Tale of Two Runtimes: Understanding Docker's Low-Level and High-Level Runtimes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681497256507/21f0e473-968d-400e-9872-8156e0505e54.png" alt="A Tale of Two Runtimes: Understanding Docker's Low-Level and High-Level Runtimes" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/a-tale-of-two-runtimes-understanding-dockers-low-level-and-high-level-runtimes" title="A Tale of Two Runtimes: Understanding Docker's Low-Level and High-Level Runtimes"><strong>A Tale of Two Runtimes: Understanding Docker's Low-Level and High-Level Runtimes</strong></a>
-<div><strong>14 Apr 2023</strong></div>
-<br/> Introduction
-Docker is a popular platform that allows developers to build and run containerized applications. The Docker runtime is a critical component of this platform that provides the environment for running containerized apps. In this technical ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
