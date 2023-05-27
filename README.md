@@ -29,6 +29,13 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/giskard-open-source-collaborative-quality-assurance-for-ai-models" title="Giskard: Open-Source & Collaborative Quality Assurance for AI models"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685189377152/2492504d-8ec0-4e90-a6d2-d20c176972de.webp" alt="Giskard: Open-Source & Collaborative Quality Assurance for AI models" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/giskard-open-source-collaborative-quality-assurance-for-ai-models" title="Giskard: Open-Source & Collaborative Quality Assurance for AI models"><strong>Giskard: Open-Source & Collaborative Quality Assurance for AI models</strong></a>
+<div><strong>27 May 2023</strong></div>
+<br/> Recently, I came to know about the tool called giskard while moving through some good companies and their projects. Giskard seems a great initiative towards visualisation of model metrics and direct impact of real-time values
+What is Giskard?
+Giskard... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/networking-with-docker-the-hilarity-of-container-connections" title="Networking with Docker: The Hilarity of Container Connections"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684932461959/c1f330dd-638c-4011-b6ee-b3a06e9d4074.jpeg" alt="Networking with Docker: The Hilarity of Container Connections" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/networking-with-docker-the-hilarity-of-container-connections" title="Networking with Docker: The Hilarity of Container Connections"><strong>Networking with Docker: The Hilarity of Container Connections</strong></a>
 <div><strong>24 May 2023</strong></div>
@@ -46,11 +53,6 @@ Welcome to a whimsical voyage into the exciting world of Docker networking, fell
 <br/> Introduction
 Well, buckle up folks, because we're about to dive into the wonderful world of monolithic container applications! And if that sentence didn't get you excited, I don't know what will.
 So, first things first, what the heck is a monolithic ... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss" title="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681669265469/b2f3ddf3-9ac1-4827-b655-c57e8f3acd45.png" alt="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss" title="Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss"><strong>Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss</strong></a>
-<div><strong>16 Apr 2023</strong></div>
-<br/> Hello there, techies! Today, we're going to talk about GitHub actions. But hold on, before we dive into this amazing topic, let me ask you a question. Do you like automating repetitive tasks? Do you love to sit back and watch your computer do all the... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
