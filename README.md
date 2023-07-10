@@ -29,6 +29,13 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/test-driven-development-a-developers-secret-sauce" title="Test-Driven Development: A Developer's Secret Sauce"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688970441251/796f285b-af8d-45a2-b7db-9dfd55896696.webp" alt="Test-Driven Development: A Developer's Secret Sauce" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/test-driven-development-a-developers-secret-sauce" title="Test-Driven Development: A Developer's Secret Sauce"><strong>Test-Driven Development: A Developer's Secret Sauce</strong></a>
+<div><strong>10 July 2023</strong></div>
+<br/> Introduction:
+
+Ah, Test-Driven Development (TDD)! It's the secret sauce that keeps developers sane while simultaneously bringing joy to our lives. It's like a comedy act where the code gets roasted and bugs are mercilessly squashed. So, grab your pop... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/django-deployment-surviving-the-wild-wild-web" title="Django Deployment: Surviving the Wild Wild Web"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685643469665/9beb13a2-4435-4ec7-8776-a3e2711b23b1.jpeg" alt="Django Deployment: Surviving the Wild Wild Web" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/django-deployment-surviving-the-wild-wild-web" title="Django Deployment: Surviving the Wild Wild Web"><strong>Django Deployment: Surviving the Wild Wild Web</strong></a>
 <div><strong>1 June 2023</strong></div>
@@ -47,11 +54,6 @@ Giskard... </p> <br/> <br/>
 <div><strong>24 May 2023</strong></div>
 <br/> Introduction
 Welcome to a whimsical voyage into the exciting world of Docker networking, fellow Docker aficionados! Grab your favourite beverage, put on a happy face, and get ready to chuckle as we uncover the secrets of container connections. Prepar... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/container-conundrum-a-comical-look-at-docker-monitoring" title="Container Conundrum: A Comical Look at Docker Monitoring"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683638778072/c79dbf60-e482-4650-aeb7-3c2e71f29ffb.png" alt="Container Conundrum: A Comical Look at Docker Monitoring" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/container-conundrum-a-comical-look-at-docker-monitoring" title="Container Conundrum: A Comical Look at Docker Monitoring"><strong>Container Conundrum: A Comical Look at Docker Monitoring</strong></a>
-<div><strong>7 May 2023</strong> | <strong>Updated: 9 May 2023</strong></div>
-<br/> Hey there, fellow Docker enthusiasts! Are you tired of constantly fretting over the health and performance of your containers? Do you wish there was an easier way to keep tabs on your Dockerized apps? Well, fear not, because today we're talking about... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
