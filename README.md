@@ -29,6 +29,13 @@
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kodein.hashnode.dev/embracing-the-horizon-scaling-your-backend-horizontally-with-finesse" title="Embracing the Horizon: Scaling Your Backend Horizontally with Finesse!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690648554634/aa9add93-02c5-4408-9852-b00112d4dc77.png" alt="Embracing the Horizon: Scaling Your Backend Horizontally with Finesse!" width="250px" align="left" /></a>
+<a href="https://kodein.hashnode.dev/embracing-the-horizon-scaling-your-backend-horizontally-with-finesse" title="Embracing the Horizon: Scaling Your Backend Horizontally with Finesse!"><strong>Embracing the Horizon: Scaling Your Backend Horizontally with Finesse!</strong></a>
+<div><strong>29 July 2023</strong></div>
+<br/> Introduction
+
+Welcome, fellow developers, to an exciting journey into the world of horizontal scaling! In this blog, we'll dive into the concept of scaling your backend horizontally to meet the ever-growing demands of modern applications. Horizontal ... </p> <br/> <br/>
+<p align="left">
 <a href="https://kodein.hashnode.dev/test-driven-development-a-developers-secret-sauce" title="Test-Driven Development: A Developer's Secret Sauce"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688970441251/796f285b-af8d-45a2-b7db-9dfd55896696.webp" alt="Test-Driven Development: A Developer's Secret Sauce" width="250px" align="left" /></a>
 <a href="https://kodein.hashnode.dev/test-driven-development-a-developers-secret-sauce" title="Test-Driven Development: A Developer's Secret Sauce"><strong>Test-Driven Development: A Developer's Secret Sauce</strong></a>
 <div><strong>10 July 2023</strong></div>
@@ -48,12 +55,6 @@ Welcome, fellow Django enthusiasts, to a hilarious yet insightful guide on deplo
 <br/> Recently, I came to know about the tool called giskard while moving through some good companies and their projects. Giskard seems a great initiative towards visualisation of model metrics and direct impact of real-time values
 What is Giskard?
 Giskard... </p> <br/> <br/>
-<p align="left">
-<a href="https://kodein.hashnode.dev/networking-with-docker-the-hilarity-of-container-connections" title="Networking with Docker: The Hilarity of Container Connections"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684932461959/c1f330dd-638c-4011-b6ee-b3a06e9d4074.jpeg" alt="Networking with Docker: The Hilarity of Container Connections" width="250px" align="left" /></a>
-<a href="https://kodein.hashnode.dev/networking-with-docker-the-hilarity-of-container-connections" title="Networking with Docker: The Hilarity of Container Connections"><strong>Networking with Docker: The Hilarity of Container Connections</strong></a>
-<div><strong>24 May 2023</strong></div>
-<br/> Introduction
-Welcome to a whimsical voyage into the exciting world of Docker networking, fellow Docker aficionados! Grab your favourite beverage, put on a happy face, and get ready to chuckle as we uncover the secrets of container connections. Prepar... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Testimonials
