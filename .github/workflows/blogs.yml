@@ -10,15 +10,7 @@ jobs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: "Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - name: Update README.md using C#
+        uses: ferrywlto/update-readme-action-csharp@v1.0.1
         with:
-          USERNAME: 'Khushiyant'
-          BLOG_URL: 'https://kodein.hashnode.dev' 
-          COUNT: 4 
-          STYLE: 'blog-left'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          medium-user-id: ${{ secrets.MEDIUM_USER_ID }}
