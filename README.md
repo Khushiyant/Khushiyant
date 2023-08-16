@@ -27,7 +27,13 @@
 - ✍️ Follow my blogs on [Hashnode](https://kodein.hashnode.dev) and [Medium](https://khushiyant.medium.com)
 
 ## Latest Blogs
-<!-- BLOG-POST-LIST:START --><tr><td>Giskard: Open-Source &amp; Collaborative Quality Assurance for AI models</td><td>https://khushiyant.medium.com/giskard-open-source-collaborative-quality-assurance-for-ai-models-8be4163f1a3?source=rss-8888a6a5b392------2</td></tr><tr><td>Networking with Docker: The Hilarity of Container Connections</td><td>https://khushiyant.medium.com/networking-with-docker-the-hilarity-of-container-connections-dbe9a5bc71e8?source=rss-8888a6a5b392------2</td></tr><tr><td>Container Conundrum: A Comical Look at Docker Monitoring</td><td>https://khushiyant.medium.com/container-conundrum-a-comical-look-at-docker-monitoring-ef306516c656?source=rss-8888a6a5b392------2</td></tr><tr><td>Monolithic Container Applications: A Double-Edged Sword</td><td>https://khushiyant.medium.com/monolithic-container-applications-a-double-edged-sword-a402324cf02a?source=rss-8888a6a5b392------2</td></tr><tr><td>Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss</td><td>https://khushiyant.medium.com/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss-827c280a7f8f?source=rss-8888a6a5b392------2</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Giskard: Open-Source &amp; Collaborative Quality Assurance for AI models](https://khushiyant.medium.com/giskard-open-source-collaborative-quality-assurance-for-ai-models-8be4163f1a3?source=rss-8888a6a5b392------2)
+- [Networking with Docker: The Hilarity of Container Connections](https://khushiyant.medium.com/networking-with-docker-the-hilarity-of-container-connections-dbe9a5bc71e8?source=rss-8888a6a5b392------2)
+- [Container Conundrum: A Comical Look at Docker Monitoring](https://khushiyant.medium.com/container-conundrum-a-comical-look-at-docker-monitoring-ef306516c656?source=rss-8888a6a5b392------2)
+- [Monolithic Container Applications: A Double-Edged Sword](https://khushiyant.medium.com/monolithic-container-applications-a-double-edged-sword-a402324cf02a?source=rss-8888a6a5b392------2)
+- [Unleashing the Magic of GitHub Actions: Automating Your Way to Programming Bliss](https://khushiyant.medium.com/unleashing-the-magic-of-github-actions-automating-your-way-to-programming-bliss-827c280a7f8f?source=rss-8888a6a5b392------2)
+<!-- BLOG-POST-LIST:END -->
 
 ## Testimonials
 <table>
