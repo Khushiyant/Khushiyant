@@ -27,9 +27,9 @@
 - ✍️ Follow my blogs on [Hashnode](https://kodein.hashnode.dev) and [Medium](https://khushiyant.medium.com)
 
 ## Latest Blogs
-<!-- MEDIUM:START -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Testimonials
 <table>
