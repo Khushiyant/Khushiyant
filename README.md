@@ -25,11 +25,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Syscalls: Bridging the Gap Between Kernel and Backend in Python](https://python.plainenglish.io/exploring-syscalls-bridging-the-gap-between-kernel-and-backend-in-python-db7108d4f70a?source=rss-8888a6a5b392------2)
 - [Unraveling the Python Thread: A Journey into Concurrency and Multithreading](https://python.plainenglish.io/unraveling-the-python-thread-a-journey-into-concurrency-and-multithreading-9e78caef6491?source=rss-8888a6a5b392------2)
 - [Crafting Documents with LaTeX: The Art of Elegant Typesetting](https://khushiyant.medium.com/crafting-documents-with-latex-the-art-of-elegant-typesetting-5ab9158fa5c3?source=rss-8888a6a5b392------2)
 - [Demystifying Persistent Connections in Django ORM: Unveiling the Magic](https://khushiyant.medium.com/demystifying-persistent-connections-in-django-orm-unveiling-the-magic-397cafe9032b?source=rss-8888a6a5b392------2)
 - [Giskard: Open-Source &amp; Collaborative Quality Assurance for AI models](https://khushiyant.medium.com/giskard-open-source-collaborative-quality-assurance-for-ai-models-8be4163f1a3?source=rss-8888a6a5b392------2)
-- [Networking with Docker: The Hilarity of Container Connections](https://khushiyant.medium.com/networking-with-docker-the-hilarity-of-container-connections-dbe9a5bc71e8?source=rss-8888a6a5b392------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Testimonials
