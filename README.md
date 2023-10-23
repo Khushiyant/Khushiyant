@@ -17,7 +17,7 @@
   </div>
 </div>
 
-### <p align="center"> Collaborating and creating, open source never stops pulsating. </p>
+<br/>
 
 - 🔬 ML Engineer, <b> Quantum Leap Labs </b>
 - 🔬 Research Assistant, <b> Norwegian University of Science and Technology </b>
