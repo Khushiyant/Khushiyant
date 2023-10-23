@@ -19,8 +19,9 @@
 
 ### <p align="center"> Collaborating and creating, open source never stops pulsating. </p>
 
+- 🔬 ML Engineer, <b> Quantum Leap Labs </b>
 - 🔬 Research Assistant, <b> Norwegian University of Science and Technology </b>
-- 👽 Join our awesome community [Searcher's Way](https://discord.gg/)! 
+- 👽 Join our awesome community [Keribium](https://discord.gg/)! 
 - ✍️ Follow my blogs on [Hashnode](https://kodein.hashnode.dev) and [Medium](https://khushiyant.medium.com)
 
 ## Latest Blogs
