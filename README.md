@@ -22,7 +22,7 @@
 - 🔬 ML Engineer, <b> Quantum Leap Labs </b>
 - 🔬 Research Assistant, <b> Norwegian University of Science and Technology </b>
 - 👽 Join our awesome community [Keribium](https://discord.gg/)! 
-- ✍️ Follow my blogs on [Hashnode](https://kodein.hashnode.dev) and [Medium](https://khushiyant.medium.com)
+- ✍️ Follow my blogs on [Medium](https://khushiyant.medium.com)
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
