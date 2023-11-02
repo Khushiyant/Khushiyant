@@ -1,4 +1,5 @@
-![github-baneer](https://user-images.githubusercontent.com/69671407/224075327-768d04b2-23c7-46dd-b9d3-090308abb186.png)
+
+![banner](https://github.com/Khushiyant/Khushiyant/assets/69671407/29f319ad-6bb2-483a-bbf3-7a785591b4ca)
 
 
 <div id="header" align="center">
