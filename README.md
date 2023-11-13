@@ -27,11 +27,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging Python Classes with dataclass and Slots](https://python.plainenglish.io/supercharging-python-classes-with-dataclass-and-slots-3557f8b292d4?source=rss-8888a6a5b392------2)
 - [Python Decorators: Adding a Dash of Magic to Your Functions](https://python.plainenglish.io/python-decorators-adding-a-dash-of-magic-to-your-functions-746b9d928b57?source=rss-8888a6a5b392------2)
 - [Exploring Syscalls: Bridging the Gap Between Kernel and Backend in Python](https://python.plainenglish.io/exploring-syscalls-bridging-the-gap-between-kernel-and-backend-in-python-db7108d4f70a?source=rss-8888a6a5b392------2)
 - [Unraveling the Python Thread: A Journey into Concurrency and Multithreading](https://python.plainenglish.io/unraveling-the-python-thread-a-journey-into-concurrency-and-multithreading-9e78caef6491?source=rss-8888a6a5b392------2)
 - [Crafting Documents with LaTeX: The Art of Elegant Typesetting](https://khushiyant.medium.com/crafting-documents-with-latex-the-art-of-elegant-typesetting-5ab9158fa5c3?source=rss-8888a6a5b392------2)
-- [Demystifying Persistent Connections in Django ORM: Unveiling the Magic](https://khushiyant.medium.com/demystifying-persistent-connections-in-django-orm-unveiling-the-magic-397cafe9032b?source=rss-8888a6a5b392------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Testimonials
