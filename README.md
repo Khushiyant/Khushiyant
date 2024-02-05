@@ -27,11 +27,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Iter Tool Magic: Mastering Python’s itertools](https://python.plainenglish.io/iter-tool-magic-mastering-pythons-itertools-d703458b9383?source=rss-8888a6a5b392------2)
 - [Poetry — A Python Developer’s New BFF](https://khushiyant.medium.com/poetry-a-python-developers-new-bff-b3b6345657ec?source=rss-8888a6a5b392------2)
 - [Harness the Power of Kubernetes with Docker Desktop](https://khushiyant.medium.com/harness-the-power-of-kubernetes-with-docker-desktop-6712c4f23794?source=rss-8888a6a5b392------2)
 - [Supercharging Python Classes with dataclass and Slots](https://python.plainenglish.io/supercharging-python-classes-with-dataclass-and-slots-3557f8b292d4?source=rss-8888a6a5b392------2)
 - [Python Decorators: Adding a Dash of Magic to Your Functions](https://python.plainenglish.io/python-decorators-adding-a-dash-of-magic-to-your-functions-746b9d928b57?source=rss-8888a6a5b392------2)
-- [Exploring Syscalls: Bridging the Gap Between Kernel and Backend in Python](https://python.plainenglish.io/exploring-syscalls-bridging-the-gap-between-kernel-and-backend-in-python-db7108d4f70a?source=rss-8888a6a5b392------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Testimonials
