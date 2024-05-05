@@ -20,7 +20,7 @@
 
 <br/>
 
-- 🔬 ML Engineer, <b> Quantum Leap Labs </b>
+- 🔬 Data Scientist, <b> Turing </b>
 - 🔬 Research Assistant, <b> Norwegian University of Science and Technology </b>
 - 👽 Join our awesome community [Keribium](https://discord.gg/)! 
 - ✍️ Follow my blogs on [Medium](https://khushiyant.medium.com)
