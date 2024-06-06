@@ -27,11 +27,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [The Inject Package: A Powerful Dependency Injection Tool for Python](https://khushiyant.medium.com/the-inject-package-a-powerful-dependency-injection-tool-for-python-849aad469732?source=rss-8888a6a5b392------2)
-- [Iter Tool Magic: Mastering Python’s itertools](https://khushiyant.medium.com/iter-tool-magic-mastering-pythons-itertools-d703458b9383?source=rss-8888a6a5b392------2)
+- [The Inject Package: A Powerful Dependency Injection Tool for Python](https://python.plainenglish.io/the-inject-package-a-powerful-dependency-injection-tool-for-python-849aad469732?source=rss-8888a6a5b392------2)
+- [Iter Tool Magic: Mastering Python’s itertools](https://python.plainenglish.io/iter-tool-magic-mastering-pythons-itertools-d703458b9383?source=rss-8888a6a5b392------2)
 - [Poetry — A Python Developer’s New BFF](https://khushiyant.medium.com/poetry-a-python-developers-new-bff-b3b6345657ec?source=rss-8888a6a5b392------2)
 - [Harness the Power of Kubernetes with Docker Desktop](https://khushiyant.medium.com/harness-the-power-of-kubernetes-with-docker-desktop-6712c4f23794?source=rss-8888a6a5b392------2)
-- [Supercharging Python Classes with dataclass and Slots](https://khushiyant.medium.com/supercharging-python-classes-with-dataclass-and-slots-3557f8b292d4?source=rss-8888a6a5b392------2)
+- [Supercharging Python Classes with dataclass and Slots](https://python.plainenglish.io/supercharging-python-classes-with-dataclass-and-slots-3557f8b292d4?source=rss-8888a6a5b392------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Testimonials
