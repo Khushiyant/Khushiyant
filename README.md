@@ -20,9 +20,9 @@
 
 <br/>
 
-- 🔬 Data Scientist, <b> Turing </b>
+- 🔬 Machine Learning Engineer, <b> Martian </b>
+- 🔬 Research Intern, <b> CERN </b>
 - 🔬 Research Assistant, <b> Norwegian University of Science and Technology </b>
-- 👽 Join our awesome community [Keribium](https://discord.gg/)! 
 - ✍️ Follow my blogs on [Medium](https://khushiyant.medium.com)
 
 ## Latest Blogs
