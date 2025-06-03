@@ -1,5 +1,7 @@
 
-![banner](https://github.com/Khushiyant/Khushiyant/assets/69671407/29f319ad-6bb2-483a-bbf3-7a785591b4ca)
+<img width="996" alt="Screenshot 2025-06-03 at 9 00 36 PM" src="https://github.com/user-attachments/assets/27bec28c-a820-4c41-93a2-002f97c05486" />
+
+
 
 
 <div id="header" align="center">
