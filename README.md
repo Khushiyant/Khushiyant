@@ -16,16 +16,16 @@
     <a href="https://khushiyant.medium.com">
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
     </a>
-      <img src="https://dcbadge.vercel.app/api/server/85Mch6B9Gw" />
+
   </div>
 </div>
 
 <br/>
 
-- 🔬 Machine Learning Engineer, <b> Martian </b>
+- 🔬 Senior ML Engineer, <b> Serind </b>
 - 🔬 Research Intern, <b> CERN </b>
-- 🔬 Research Assistant, <b> Norwegian University of Science and Technology </b>
 - ✍️ Follow my blogs on [Medium](https://khushiyant.medium.com)
+
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
@@ -64,3 +64,11 @@ https://discord.gg/S5HttNCU </td>
 </tbody>
   </table>
 <br>
+
+
+
+
+## Publications
+1. Khushiyant. "Neurocognitive modeling for text generation: Deep learning architecture for EEG data", 2025
+2. N. Khushiyant, V. Mathur, S. Kumar, and V. Shokeen. "ReegNet: A resource efficient EEGNet for EEG trail classification in healthcare", *Intelligent Decision Technologies*, Feb 2024
+3. V. Khushiyant. "Ideal weight ensembling of modified neural networks", *Indian Journal of Natural Sciences*, 2023
