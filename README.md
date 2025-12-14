@@ -29,11 +29,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Breaking the Speed Limit: How I Optimized Python Tensor Serialization to 5 GB/s](https://khushiyant.medium.com/breaking-the-speed-limit-how-i-optimized-python-tensor-serialization-to-5-gb-s-f28df72ac598?source=rss-8888a6a5b392------2)
 - [Outperforming Apache Arrow: Building a Faster Zero-Copy Protocol from Scratch](https://khushiyant.medium.com/how-i-built-a-python-tensor-protocol-1500x-faster-than-pickle-e0ca4a4b3ed3?source=rss-8888a6a5b392------2)
 - [Model Context Protocol: A Technical Overview](https://khushiyant.medium.com/model-context-protocol-a-technical-overview-96c117a8736f?source=rss-8888a6a5b392------2)
 - [Creating and Using RPC Connections with Python: A Practical Guide](https://python.plainenglish.io/creating-and-using-rpc-connections-with-python-a-practical-guide-4e733765687b?source=rss-8888a6a5b392------2)
 - [The Inject Package: A Powerful Dependency Injection Tool for Python](https://python.plainenglish.io/the-inject-package-a-powerful-dependency-injection-tool-for-python-849aad469732?source=rss-8888a6a5b392------2)
-- [Iter Tool Magic: Mastering Python’s itertools](https://python.plainenglish.io/iter-tool-magic-mastering-pythons-itertools-d703458b9383?source=rss-8888a6a5b392------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Testimonials
