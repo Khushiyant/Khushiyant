@@ -23,7 +23,6 @@
 <br/>
 
 - 🔬 Senior ML Engineer, <b> Serind </b>
-- 🔬 Research Intern, <b> CERN </b>
 - ✍️ Follow my blogs on [Medium](https://khushiyant.medium.com)
 
 
