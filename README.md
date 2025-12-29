@@ -28,11 +28,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Reclaiming the Microsecond: Why Tenso is Now 13x Faster Than Standard gRPC](https://khushiyant.medium.com/reclaiming-the-microsecond-why-tenso-is-now-13x-faster-than-standard-grpc-ee98ab059bb3?source=rss-8888a6a5b392------2)
 - [From 0 to 1: Engineering a Fused LIF Kernel for Spiking LLMs](https://khushiyant.medium.com/from-0-to-1-engineering-a-fused-lif-kernel-for-spiking-llms-70fcac666769?source=rss-8888a6a5b392------2)
 - [Breaking the Speed Limit: How I Optimized Python Tensor Serialization to 5 GB/s](https://khushiyant.medium.com/breaking-the-speed-limit-how-i-optimized-python-tensor-serialization-to-5-gb-s-f28df72ac598?source=rss-8888a6a5b392------2)
 - [Outperforming Apache Arrow: Building a Faster Zero-Copy Protocol from Scratch](https://khushiyant.medium.com/how-i-built-a-python-tensor-protocol-1500x-faster-than-pickle-e0ca4a4b3ed3?source=rss-8888a6a5b392------2)
 - [Model Context Protocol: A Technical Overview](https://khushiyant.medium.com/model-context-protocol-a-technical-overview-96c117a8736f?source=rss-8888a6a5b392------2)
-- [Creating and Using RPC Connections with Python: A Practical Guide](https://python.plainenglish.io/creating-and-using-rpc-connections-with-python-a-practical-guide-4e733765687b?source=rss-8888a6a5b392------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Testimonials
